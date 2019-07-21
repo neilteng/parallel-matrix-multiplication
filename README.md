@@ -1,4 +1,4 @@
-Zhiyong Deng's Implement for high performance computing course.
+Neil's Implement for high performance computing course.
 
 ## Code structure
 
