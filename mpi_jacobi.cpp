@@ -1,11 +1,13 @@
 /**
  * @file    mpi_jacobi.cpp
- * @author  Patrick Flick <patrick.flick@gmail.com>
+ * @code structure author  Patrick Flick <patrick.flick@gmail.com>
  * @brief   Implements MPI functions for distributing vectors and matrixes,
  *          parallel distributed matrix-vector multiplication and Jacobi's
  *          method.
  *
  * Copyright (c) 2014 Georgia Institute of Technology. All Rights Reserved.
+ *
+ *implemented by Zhiyong Deng ofr cse 6220
  */
 
 #include "mpi_jacobi.h"
