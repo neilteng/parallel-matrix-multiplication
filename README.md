@@ -1,6 +1,3 @@
-CSE 6220 Programming Assignment 3
-=================================
-
 ## Code structure
 
 All the code is located at the root level of the project.
